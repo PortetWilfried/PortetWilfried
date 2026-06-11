@@ -23,7 +23,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 ### 🖥️ Postes & déploiement
 
 - [**Projet 2 — Configurer et automatiser le déploiement d'un poste Windows 11**](https://github.com/PortetWilfried/ti-p02-deploiement-windows11) — assemblage PC pour CAO/DAO + déploiement automatisé via MDT/WDS
-- *Projet 4 — Reconditionner un parc d'ordinateurs (FOG, Sysprep, Chocolatey)* — *à venir*
+- [**Projet 4 — Reconditionner un parc d'ordinateurs (FOG, Sysprep, Chocolatey, AD)**](https://github.com/PortetWilfried/ti-p04-reconditionnement-parc) — déploiement de masse Windows 11 avec jonction automatique au domaine
 
 ### 🌐 Réseau
 
