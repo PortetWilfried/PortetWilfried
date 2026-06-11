@@ -28,7 +28,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 ### 🌐 Réseau
 
 - [**Projet 3 — Déployer un réseau local filaire et Wi-Fi (Cisco Packet Tracer)**](https://github.com/PortetWilfried/ti-p03-reseau-local) — médiathèque avec Wi-Fi staff (WPA2 Enterprise + Radius) et Wi-Fi visiteurs isolé
-- *Projet 8 — Renforcer la sécurité d'un réseau local* — *à venir*
+- [**Projet 8 — Renforcer la sécurité d'un réseau local**](https://github.com/PortetWilfried/ti-p08-securite-reseau) ⭐ — concession auto multi-zones : 10 VLAN, ACL étendues, SSH only, Port-Security, Rapid PVST+, Wi-Fi segmenté
 - *Projet 9 — Optimiser la performance et la sécurité d'un réseau d'entreprise* — *à venir*
 
 ### 🏢 Active Directory & systèmes
