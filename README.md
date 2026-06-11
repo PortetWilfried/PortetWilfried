@@ -48,7 +48,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 ### 🎧 Support utilisateurs
 
 - [**Projet 12 — Gérer l'assistance utilisateur (ITIL, GLPI)**](https://github.com/PortetWilfried/ti-p12-itil-glpi) — incidents/demandes/changements/problèmes + KB + escalades N1/N2/N3 (Bitwarden, BitLocker, phishing analysé)
-- *Projet 13 — Assister les utilisateurs de bout en bout* — *à venir*
+- [**Projet 13 — Assister les utilisateurs de bout en bout**](https://github.com/PortetWilfried/ti-p13-assistance-bout-en-bout) ⭐ **(capstone)** — mission solo 3 jours chez Cacao Fragrance : 23 tickets, 70% résolus, escalades N3/N+1/prestataires, rapport d'activité pro + piste d'amélioration KB
 
 ---
 
