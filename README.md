@@ -38,7 +38,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 
 ### ⚙️ Automatisation & scripts
 
-- *Projet 7 — Premiers scripts PowerShell et automatisation* — *à venir*
+- [**Projet 7 — Premiers scripts PowerShell et automatisation**](https://github.com/PortetWilfried/ti-p07-powershell) ⭐ — toolbox AD : déverrouillage/reset password + import en masse depuis CSV avec mode DryRun
 
 ### 🛡️ Supervision & maintenance
 
