@@ -47,7 +47,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 
 ### 🎧 Support utilisateurs
 
-- *Projet 12 — Gérer l'assistance utilisateur (ITIL, GLPI)* — *à venir*
+- [**Projet 12 — Gérer l'assistance utilisateur (ITIL, GLPI)**](https://github.com/PortetWilfried/ti-p12-itil-glpi) — incidents/demandes/changements/problèmes + KB + escalades N1/N2/N3 (Bitwarden, BitLocker, phishing analysé)
 - *Projet 13 — Assister les utilisateurs de bout en bout* — *à venir*
 
 ---
