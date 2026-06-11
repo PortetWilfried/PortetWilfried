@@ -27,7 +27,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 
 ### 🌐 Réseau
 
-- *Projet 3 — Déployer un réseau local filaire et Wi-Fi (Cisco Packet Tracer)* — *à venir*
+- [**Projet 3 — Déployer un réseau local filaire et Wi-Fi (Cisco Packet Tracer)**](https://github.com/PortetWilfried/ti-p03-reseau-local) — médiathèque avec Wi-Fi staff (WPA2 Enterprise + Radius) et Wi-Fi visiteurs isolé
 - *Projet 8 — Renforcer la sécurité d'un réseau local* — *à venir*
 - *Projet 9 — Optimiser la performance et la sécurité d'un réseau d'entreprise* — *à venir*
 
