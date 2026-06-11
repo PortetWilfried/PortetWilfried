@@ -42,7 +42,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 
 ### 🛡️ Supervision & maintenance
 
-- *Projet 10 — Inventorier, sauvegarder et superviser un parc (OCS, Veeam)* — *à venir*
+- [**Projet 10 — Inventorier, sauvegarder et superviser un parc**](https://github.com/PortetWilfried/ti-p10-inventaire-sauvegarde-supervision) ⭐ — OCS Inventory + Veeam Win/Linux + Nagios Core + rapport d'intervention + gestion DEEE/RGPD
 - *Projet 11 — Assurer le MCO/MCS d'un parc informatique* — *à venir*
 
 ### 🎧 Support utilisateurs
