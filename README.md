@@ -33,7 +33,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 
 ### 🏢 Active Directory & systèmes
 
-- *Projet 5 — Créer un domaine Windows Active Directory (DNS/DHCP, OU, GPO, AGDLP, Nextcloud)* — *à venir*
+- [**Projet 5 — Créer un domaine Windows Active Directory (DNS/DHCP, OU, GPO, AGDLP, Nextcloud)**](https://github.com/PortetWilfried/ti-p05-active-directory) ⭐ — DC Win Server 2022 + AGDLP + GPO + Ubuntu Nextcloud joint au domaine via LDAP/SSSD
 - *Projet 6 — Optimiser la configuration d'un domaine Active Directory* — *à venir*
 
 ### ⚙️ Automatisation & scripts
