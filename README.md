@@ -43,7 +43,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 ### 🛡️ Supervision & maintenance
 
 - [**Projet 10 — Inventorier, sauvegarder et superviser un parc**](https://github.com/PortetWilfried/ti-p10-inventaire-sauvegarde-supervision) ⭐ — OCS Inventory + Veeam Win/Linux + Nagios Core + rapport d'intervention + gestion DEEE/RGPD
-- *Projet 11 — Assurer le MCO/MCS d'un parc informatique* — *à venir*
+- [**Projet 11 — Assurer le MCO/MCS d'un parc informatique**](https://github.com/PortetWilfried/ti-p11-mco-mcs) ⭐ — GPO+Chocolatey, UrBackup, MAJ Win+Choco automatisées, sauvegarde GLPI chiffrée AES+HMAC, Nagios + rapport d'analyse d'alerte pro
 
 ### 🎧 Support utilisateurs
 
