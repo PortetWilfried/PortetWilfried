@@ -77,6 +77,6 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 
 Pour toute proposition d'alternance, de stage, ou pour échanger :
 
-- **GitHub** [@PortetWilfried](https://github.com/PortetWilfried)
-- **Email** *(à compléter)*
-- **LinkedIn** *(à compléter)*
+- 📧 **Email** — [wilfried.portet@gmail.com](mailto:wilfried.portet@gmail.com)
+- 💼 **LinkedIn** — [in/wilfried-portet](https://www.linkedin.com/in/wilfried-portet-a882b9293/)
+- 💻 **GitHub** — [@PortetWilfried](https://github.com/PortetWilfried)
