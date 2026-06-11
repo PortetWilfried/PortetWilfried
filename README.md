@@ -67,8 +67,8 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 
 ## 🎓 Formations & certifications
 
-- **Technicien Informatique** — OpenClassrooms, RNCP niveau 5 *(juin 2026)*
-- **Technicien Systèmes & Réseaux** — Studi *(2026)*
+- **Technicien Informatique** — OpenClassrooms, RNCP niveau 5 *(juin 2026)* — [📁 13 projets sur GitHub](https://github.com/PortetWilfried?tab=repositories&q=ti-)
+- **Technicien Supérieur Systèmes & Réseaux (TSSR)** — Studi, RNCP niveau 5 (TP-01351), validé 23/12/2025 — note **16,4/20** — [📁 TP final sur GitHub](https://github.com/PortetWilfried/studi-tssr-tp-final)
 - 1 année validée en école d'informatique (développement)
 
 ---
