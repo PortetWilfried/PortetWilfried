@@ -65,11 +65,22 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 
 ---
 
-## 🎓 Formations & certifications
+## 🎓 Formations
 
 - **Technicien Informatique** — OpenClassrooms, RNCP niveau 5 *(juin 2026)* — [📁 13 projets sur GitHub](https://github.com/PortetWilfried?tab=repositories&q=ti-)
 - **Technicien Supérieur Systèmes & Réseaux (TSSR)** — Studi, RNCP niveau 5 (TP-01351), validé 23/12/2025 — note **16,4/20** — [📁 TP final sur GitHub](https://github.com/PortetWilfried/studi-tssr-tp-final)
 - 1 année validée en école d'informatique (développement)
+
+## 🏆 Certifications professionnelles
+
+| Certification | Émetteur | Date | Vérification |
+|---|---|---|---|
+| ![CompTIA](https://img.shields.io/badge/CompTIA-Tech%2B-red?style=flat-square) **CompTIA Tech+** *(Plus Series)* | CompTIA | **24 juin 2025** | [📄 PDF](certifications/01-comptia-tech-plus.pdf) · [✅ Verify CompTIA](https://verify.comptia.org) · ID `COMP001022833163` · Code `4N4LVJVS824EQQM2` |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=flat-square) **Microsoft Certified : Principes de base d'Azure** | Microsoft | **31 juillet 2025** | [📄 PDF](certifications/02-microsoft-azure-fundamentals-az900.pdf) · [✅ Microsoft Learn](https://learn.microsoft.com/fr-fr/users/wilfried-8686/credentials/certification/azure-fundamentals) · N° `924292-ME8E89` |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-Linux%20Basics-2496ED?style=flat-square) **Learning Linux Basics Course & Labs** | KodeKloud | **3 mai 2026** | [📄 PDF](certifications/04-kodekloud-linux-basics.pdf) · ID `b4a3bb34-d0b0-4184-8814-976de8fb59d3` |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-DevOps%20Pre--Requisite-2496ED?style=flat-square) **DevOps Pre-Requisite Course** | KodeKloud | **28 avril 2026** | [📄 PDF](certifications/03-kodekloud-devops-prerequisites.pdf) · ID `708dcf51-fb87-41ca-90e5-e3886551af86` |
+
+**Objectif court terme** : Préparer **AWS Cloud Practitioner (CLF-C02)** puis **AWS Solutions Architect Associate (SAA-C03)**.
 
 ---
 
