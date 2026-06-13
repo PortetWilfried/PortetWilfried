@@ -12,7 +12,7 @@ Diplômé de la formation **Technicien Informatique** d'OpenClassrooms (RNCP niv
 - 🖥️ **Postes de travail** — Industrialiser le déploiement Windows 11 (MDT, WDS, Sysprep, FOG, Chocolatey)
 - 🌐 **Réseaux** — Concevoir et configurer un LAN/Wi-Fi (TCP/IP, VLAN, ACL, CIDR, Cisco Packet Tracer)
 - 🏢 **Active Directory** — Domaine Windows Server, DNS, DHCP, OU, GPO, modèle AGDLP, jonction Linux
-- ⚙️ **Automatisation** — Scripts PowerShell, Ansible, intégration de l'IA générative dans les workflows
+- ⚙️ **Automatisation** — Scripts PowerShell, intégration de l'IA générative dans les workflows
 - 🛡️ **Sécurité** — Durcissement de postes, sauvegarde Veeam, supervision Nagios
 - 🎧 **Support utilisateurs** — Référentiel ITIL, ticketing GLPI, niveaux N1 / N2
 
